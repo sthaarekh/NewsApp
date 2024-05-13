@@ -1,0 +1,71 @@
+{
+    "status": "ok",
+    "totalResults": 5,
+    "articles": [
+        {
+            "source": {
+                "id": "espn",
+                "name": "ESPN"
+            },
+            "author": "Reuters",
+            "title": "Malaysian player Halim walking again after acid attack - ESPN",
+            "description": "Malaysian footballer Faisal Halim has responded well to a third surgery and can walk after being left in critical condition from an acid attack, state news agency Bernama reported on Friday.",
+            "url": "https://www.espn.com/soccer/story/_/id/40118461/malaysian-player-halim-walking-again-acid-attack",
+            "urlToImage": "https://a3.espncdn.com/combiner/i?img=%2Fphoto%2F2024%2F0510%2Fr1330999_1296x729_16%2D9.jpg",
+            "publishedAt": "2024-05-10T13:03:00Z",
+            "content": "May 10, 2024, 09:03 AM ET\r\nFaisal Halim was left with fourth-degree burns after being splashed with acid at a mall. Getty\r\nMalaysian footballer Faisal Halim has responded well to a third surgery and … [+948 chars]"
+        },
+        {
+            "source": {
+                "id": "abc-news-au",
+                "name": "ABC News (AU)"
+            },
+            "author": null,
+            "title": "Hidden from view, a remarkable football carnival took place near Uluru",
+            "description": null,
+            "url": "https://www.abc.net.au/news/2024-05-10/she-can-play-first-nations-womens-football-carnival-near-uluru/103693270",
+            "urlToImage": null,
+            "publishedAt": "2024-05-10T05:22:07.1537813Z",
+            "content": "Description: Group Number: Group Name: Ip Address: Username: Computer Name:"
+        },
+        {
+            "source": {
+                "id": "fox-sports",
+                "name": "Fox Sports"
+            },
+            "author": null,
+            "title": "National Football League\n     <!----> \n        Five potential Cowboys picks to track at the NFL Draft Combine\n       \n      1 hour ago",
+            "description": null,
+            "url": "http://www.foxsports.com/stories/nfl/five-potential-cowboys-picks-to-track-at-the-nfl-draft-combine",
+            "urlToImage": null,
+            "publishedAt": "2024-02-29T18:37:22.5746516Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "bleacher-report",
+                "name": "Bleacher Report"
+            },
+            "author": "David Kenyon",
+            "title": "Unique Stats from the 2023 College Football Regular Season",
+            "description": "Numbers are an integral part of college football. Whether you're previewing games, ranking teams or picking an award winner, statistics help shape the story.…",
+            "url": "https://bleacherreport.com/articles/10100739-unique-stats-from-the-2023-college-football-regular-season",
+            "urlToImage": "https://media.bleacherreport.com/image/upload/c_fill,g_faces,w_3800,h_2000,q_95/v1702319871/sdx1wjlqkcqz3anqfabp.jpg",
+            "publishedAt": "2023-12-12T12:00:00Z",
+            "content": "Zach Bolinger/Icon Sportswire via Getty Images\r\nSpeaking of Iowa...\r\nWhat makes the Hawkeyes' stellar defensive season even more impressive is how much the team desperately needed it.\r\nAmong the many… [+711 chars]"
+        },
+        {
+            "source": {
+                "id": "espn-cric-info",
+                "name": "ESPN Cric Info"
+            },
+            "author": null,
+            "title": "Five famous people (and one cat) you didn't know have ESPNcricinfo profiles | ESPNcricinfo.com",
+            "description": "Why do a footballer, a Nobel laureate and a prime minister (no, not Imran Khan) find themselves in the ESPNcricinfo player database? | ESPNcricinfo.com",
+            "url": "http://www.espncricinfo.com/story/_/id/29102695/five-famous-people-one-cat-know-espncricinfo-profiles",
+            "urlToImage": "https://a.espncdn.com/i/cricket/cricinfo/1221668_1296x1296.gif",
+            "publishedAt": "2020-04-27T07:20:43Z",
+            "content": "Why do a cat, a footballer, a Nobel laureate and a prime minister find themselves in the ESPNcricinfo database? Here are six player profiles you wouldn't have expected we had.\r\nPeter the catThe only … [+5504 chars]"
+        }
+    ]
+}
