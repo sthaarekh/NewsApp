@@ -27,13 +27,14 @@ export class News extends Component {
                   loading: false})
   }
   async componentDidMount() {
-    let url= `https://newsapi.org/v2/top-headlines?country=${this.props.country}&category=${this.props.category}&apiKey=cb79dd33638942aea3be8794acafacd3&page=1&pageSize=${this.props.pageSize}`;
-    this.setState({loading:true})
-    let data = await fetch(url);
-    let parsedData = await data.json();
-    this.setState({articles: parsedData.articles, 
-                  totalResults: parsedData.totalResults,
-                  loading: false})
+    // let url= `https://newsapi.org/v2/top-headlines?country=${this.props.country}&category=${this.props.category}&apiKey=cb79dd33638942aea3be8794acafacd3&page=1&pageSize=${this.props.pageSize}`;
+    // this.setState({loading:true})
+    // let data = await fetch(url);
+    // let parsedData = await data.json();
+    // this.setState({articles: parsedData.articles, 
+    //               totalResults: parsedData.totalResults,
+    //               loading: false})
+    this.updatePage();
   }
   previousClick=async()=>{
     // let url= `https://newsapi.org/v2/top-headlines?country=${this.props.country}&category=${this.props.category}&apiKey=cb79dd33638942aea3be8794acafacd3&page=${this.state.page-1}&pageSize=${this.props.pageSize}`;
