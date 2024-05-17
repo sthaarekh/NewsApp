@@ -1,13 +1,11 @@
-import React, { Component } from 'react'
+import React from 'react'
 import loading from './loading.gif'
-export class Spinner extends Component {
-  render() {
-    return (
+export default function Spinner() {
+  return (
+
       <div className='text-center'>
         <img src={loading} alt="" />
       </div>
-    )
-  }
-}
 
-export default Spinner
+  )
+}
